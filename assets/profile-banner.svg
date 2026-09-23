@@ -47,9 +47,4 @@
     <text x="76" y="244" fill="#8FA4C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="0.8">PRODUCT-MINDED BUILDER  •  AI &amp; SYSTEMS EXPLORER</text>
   </g>
 
-  <g transform="translate(76 286)">
-    <rect width="258" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.075" stroke="#FFFFFF" stroke-opacity="0.13"/>
-    <circle cx="23" cy="21" r="6" fill="#35D3C7"/>
-    <text x="41" y="27" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">Building end-to-end products</text>
-  </g>
 </svg>
