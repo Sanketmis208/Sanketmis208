@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg?v=2" alt="Sanket Mistry - Full-stack and Flutter engineer" width="100%" />
+  <img src="./assets/profile-banner-clean.svg" alt="Sanket Mistry - Full-stack and Flutter engineer" width="100%" />
 
   <br />
 
@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/sanket-mistry-666164287/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sanketmistry.codes@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/Sanket_2189/"><img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
-
-  <br /><br />
-
   <img src="https://komarev.com/ghpvc/?username=Sanketmis208&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
 </div>
 
