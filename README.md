@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Sanket Mistry - Full-stack and Flutter engineer" width="100%" />
+  <img src="./assets/profile-banner.svg?v=2" alt="Sanket Mistry - Full-stack and Flutter engineer" width="100%" />
 
   <br />
 
