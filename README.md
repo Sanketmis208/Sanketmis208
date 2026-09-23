@@ -6,7 +6,7 @@
   <a href="https://www.sanketmistry.space/"><img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sanket-mistry-666164287/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sanketmistry.codes@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/Sanket_2189/"><img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
+  <a href="https://leetcode.com/u/Sanket_2189/"><img src="https://img.shields.io/badge/LeetCode-200%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Sanketmis208&label=Profile%20views&color=6C63FF&style=for-the-badge&v=2" alt="Profile views" />
 </div>
@@ -88,7 +88,7 @@ I'm a **full-stack and Flutter engineer** who enjoys turning real business workf
 
 <div align="center">
 
-| 300+ | 80+ | 5 | 1654 |
+| 200+ | 80+ | 5 | 1739 |
 |:---:|:---:|:---:|:---:|
 | LeetCode problems solved | Students mentored as a TA | RBAC roles implemented in AssetFlow | Peak LeetCode contest rating |
 
@@ -108,7 +108,7 @@ I'm a **full-stack and Flutter engineer** who enjoys turning real business workf
 ## Highlights
 
 - Mentored **80+ undergraduate students** as a Teaching Assistant for scripting, NumPy, Pandas, and scikit-learn.
-- Solved **300+ data structures and algorithms problems** with a peak LeetCode contest rating of **1654**.
+- Solved **200+ data structures and algorithms problems** with a peak LeetCode contest rating of **1739**.
 - Ranked in the **top 3.8% of 1.1M+ candidates** in JEE Main (96.2 percentile).
 - Comfortable owning a product from UI and API design through data modeling, security, testing, and deployment.
 
