@@ -8,7 +8,7 @@
   <a href="mailto:sanketmistry.codes@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/u/Sanket_2189/"><img src="https://img.shields.io/badge/LeetCode-300%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Sanketmis208&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sanketmis208&label=Profile%20views&color=6C63FF&style=for-the-badge&v=2" alt="Profile views" />
 </div>
 
 ## About me
